@@ -1,0 +1,168 @@
+{
+  "NHL" : {
+    "Anaheim Ducks" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Arizona Coyotes" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Boston Bruins" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Buffalo Sabres" : [
+        "home",
+        "away"
+      ],
+    "Calgary Flames" : [
+        "home",
+        "away"
+      ],
+    "Carolina Hurricanes" : [
+        "home",
+        "away",
+        "alternate",
+		"whalers"
+      ],
+    "Chicago Blackhawks" : [
+        "home",
+        "away"
+      ],
+    "Colorado Avalanche" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Columbus Blue Jackets" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Dallas Stars" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Detroit Red Wings" : [
+        "home",
+        "away"
+      ],
+    "Edmonton Oilers" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Florida Panthers" : [
+        "home",
+        "away"
+      ],
+    "Los Angeles Kings" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Minnesota Wild" : [
+        "home",
+        "away",
+        "winter classic"
+      ],
+    "Montreal Canadiens" : [
+        "home",
+        "away"
+      ],
+    "Nashville Predators" : [
+        "home",
+        "away",
+        "stadium series"
+      ],
+    "New Jersey Devils" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "New York Islanders" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "New York Rangers" : [
+        "home",
+        "away"
+      ],
+    "Ottawa Senators" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Philadelphia Flyers" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Pittsburgh Penguins" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "St Louis Blues" : [
+        "home",
+        "away",
+        "alternate",
+		"winter classic",
+		"throwback"
+      ],
+    "San Jose Sharks" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Seattle Kraken" : [
+        "home",
+        "away"
+      ],
+    "Tampa Bay Lightning" : [
+        "home",
+        "away",
+        "alternate",
+		"stadium series"
+      ],
+    "Toronto Maple Leafs" : [
+        "home",
+        "away",
+        "throwback"
+      ],
+    "Vancouver Canucks" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Vegas Golden Knights" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Washington Capitals" : [
+        "home",
+        "away",
+        "alternate"
+      ],
+    "Winnipeg Jets" : [
+        "home",
+        "away",
+        "alternate"
+      ]
+  }, "WHL" : {
+	"Spokane Chiefs" : [
+		"red",
+		"white",
+		"blue",
+		"camo",
+		"fight cancer"
+	]
+  }
+}

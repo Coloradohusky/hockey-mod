@@ -1,0 +1,276 @@
+{
+	"league": [
+		{
+			"leagueName": "NHL",
+			"teams": [
+				{
+					"name": "Anaheim Ducks",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Arizona Coyotes",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Boston Bruins",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Buffalo Sabres",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Calgary Flames",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Carolina Hurricanes",
+					"jersey": [
+						"home",
+						"away",
+						"alternate",
+						"whalers"
+					]
+				},
+				{
+					"name": "Chicago Blackhawks",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Colorado Avalanche",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Colombus Blue Jackets",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Dallas Stars",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Detroit Red Wings",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Edmonton Oilers",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Florida Panthers",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Los Angeles Kings",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Minnesota Wild",
+					"jersey": [
+						"home",
+						"away",
+						"winter classic"
+					]
+				},
+				{
+					"name": "Montreal Canadiens",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Nashville Predators",
+					"jersey": [
+						"home",
+						"away",
+						"stadium series"
+					]
+				},
+				{
+					"name": "New Jersey Devils",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "New York Islanders",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "New York Rangers",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Ottawa Senators",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Philadelphia Flyers",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Pittsburgh Penguins",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "St Louis Blues",
+					"jersey": [
+						"home",
+						"away",
+						"alternate",
+						"winter classic",
+						"throwback"
+					]
+				},
+				{
+					"name": "San Jose Sharks",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Seattle Kraken",
+					"jersey": [
+						"home",
+						"away"
+					]
+				},
+				{
+					"name": "Tampa Bay Lightning",
+					"jersey": [
+						"home",
+						"away",
+						"alternate",
+						"stadium series"
+					]
+				},
+				{
+					"name": "Toronto Maple Leafs",
+					"jersey": [
+						"home",
+						"away",
+						"throwback"
+					]
+				},
+				{
+					"name": "Vancouver Canucks",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Vegas Golden Knights",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Washington Capitals",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				},
+				{
+					"name": "Winnipeg Jets",
+					"jersey": [
+						"home",
+						"away",
+						"alternate"
+					]
+				}
+			]
+		},
+		{
+			"leagueName": "WHL",
+			"teams": [
+				{
+					"name": "Spokane Chiefs",
+					"jersey": [
+						"red",
+						"blue",
+						"white",
+						"camo",
+						"fight cancer"
+					]
+				}
+			]
+		}
+	]
+}
