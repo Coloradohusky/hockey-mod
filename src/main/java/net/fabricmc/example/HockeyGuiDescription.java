@@ -39,6 +39,7 @@ public class HockeyGuiDescription extends SyncedGuiDescription {
         WLabel mainTitle = new WLabel(new LiteralText("Creator"));
         mainTitle.setHorizontalAlignment(HorizontalAlignment.RIGHT);
         root.add(mainTitle, 65*3, 0);
+
         ArrayList fullData = null;
         try {
             fullData = JerseyJSONParser.getData();
@@ -77,6 +78,7 @@ public class HockeyGuiDescription extends SyncedGuiDescription {
                 }
             }
             BiConsumer<String, HockeyList> configurator = (String fullName, HockeyList destination) -> {
+                System.out.println(fullName);
                 String convertedText = fullName.toLowerCase().replace(" ", "_");
                 destination.button.setLabel(new LiteralText(fullName.split("/")[1]));
                 destination.button.setIcon(new TextureIcon(new Identifier("tutorial:textures/item/" + convertedText + "/home/" + convertedText.split("/")[1] + "_jersey.png")));
@@ -91,13 +93,17 @@ public class HockeyGuiDescription extends SyncedGuiDescription {
             list.setLocation(0, 5);
             leagueTabs.add(list, tab -> tab.icon(new ItemIcon(new ItemStack(Items.APPLE))));
         }
-
         root.add(leagueTabs, 0, 0, 55, 32);
 
 
         ArrayList finalFullData = fullData;
+        /*
+        Is supposed to change reactorHockeyPanel based on the team that is clicked.
+        Receives TEAM_NAME, sets reactorNames as it should, but reactorHockeyPanel doesn't show up
+        */
         ScreenNetworking.of(this, NetworkSide.SERVER).receive(TEAM_NAME, buf -> {
             BiConsumer<String, ReactorHockeyList> reactorConfigurator = (String fullName, ReactorHockeyList destination) -> {
+                System.out.println(fullName);
                 String convertedText = fullName.toLowerCase().replace(" ", "_");
                 String[] splitName = fullName.split("/");
                 String[] splitConvertedName = convertedText.split("/");
